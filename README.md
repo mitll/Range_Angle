@@ -1,13 +1,7 @@
 # Range_Angle
 
-### Distribution Statement
+The goal of the situational test is to collect realistic Bluetooth RSSI data between an iPhone and another phone (iPhone or Android) for a period of time at different distances and angles. The phones are carried in different positions during these tests (e.g., hand, pockets) while sitting and standing. 
 
-DISTRIBUTION STATEMENT A. Approved for public release. Distribution is unlimited.
+The distances range from 2-15 feet. At each distance the tester moves in increments of 45 degrees around the beacon phone while maintaining a phone position. 
 
-This material is based upon work supported by the United States Air Force under Air Force Contract No. FA8702-15-D-0001. Any opinions, findings, conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the United States Air Force.
-
-© 2020 Massachusetts Institute of Technology.
-
-The software/firmware is provided to you on an As-Is basis
-
-Delivered to the U.S. Government with Unlimited Rights, as defined in DFARS Part 252.227-7013 or 7014 (Feb 2014). Notwithstanding any copyright notice, U.S. Government rights in this work are defined by DFARS 252.227-7013 or DFARS 252.227-7014 as detailed above. Use of this work other than as specifically authorized by the U.S. Government may violate any copyrights that exist in this work.
+Testers are to be family/house members who are isolating in the same residence together. Social distancing between non-members should be observed. 
